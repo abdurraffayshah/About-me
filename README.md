@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killer1234556&label=Profile%20views&color=0e75b6&style=flat" alt="killer1234556" /> </p>
 
-- 🌱 I’m currently learning **python through the CS50p coarse by harvard**
+- 🌱 I’m currently learning **python through the CS50p course by harvard**
 
 - 💬 Ask me about **Islam, python, computer science, maths**
 
