@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Raffay</h1>
-<h3 align="center">A passionate frontend developer from the United Kingdom</h3>
+<h3 align="center">A passionate computer science enthusiast from the United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killer1234556&label=Profile%20views&color=0e75b6&style=flat" alt="killer1234556" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **syedshah977887@gmail.com**
 
-- ⚡ Fun fact **Alongside this Proramming journey that i have embarked on i also am an entrepreneur**
+- ⚡ Course in Progress **As of right now i am doing the CS50p course by Harvard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
