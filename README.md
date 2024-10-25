@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Islam, python, computer science, maths**
 
-- 📫 How to reach me **syedshah977887@gmail.com**
+- 📫 How to reach me **syedabdurraffay@outlook.com**
 
 - ⚡ Course in Progress **As of right now i am doing the CS50p course by Harvard**
 
