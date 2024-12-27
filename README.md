@@ -45,8 +45,8 @@
 
 <h3>📂 Projects</h3>
 <p>
-  - [**Journal**](https://github.com/abdurraffayshah/Journal-) - A Python project to manage personal journal entries.
-  - [**Homework Manager**](https://github.com/abdurraffayshah/Homework-Manager) - A Python-based application to track and manage homework assignments.
+  - <a href="https://github.com/abdurraffayshah/Journal-" target="_blank">**Journal**</a> - A Python project to manage personal journal entries.
+  - <a href="https://github.com/abdurraffayshah/Homework-Manager" target="_blank">**Homework Manager**</a> - A Python-based application to track and manage homework assignments.
 </p>
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
