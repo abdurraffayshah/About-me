@@ -51,6 +51,12 @@
   - <a href="https://github.com/abdurraffayshah/Homework-Manager" target="_blank">**Homework Manager**</a> - A Python-based application to track and manage homework assignments.
 </p>
 
+<h3 align="center">👨‍💻 What I’m Currently Learning 👨‍💻</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20&%20ML-Scikit--Learn%2C%20TensorFlow-yellow?style=for-the-badge&logo=artstation"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-LeetCode-brightgreen?style=for-the-badge&logo=leetcode"/>
+</p>
+
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdurraffayshah&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
@@ -59,10 +65,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdurraffayshah&theme=radical&margin-w=15" alt="Trophies" width="500"/>
-</p>
-
-<h3 align="center">👨‍💻 What I’m Currently Learning 👨‍💻</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20&%20ML-Scikit--Learn%2C%20TensorFlow-yellow?style=for-the-badge&logo=artstation"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-LeetCode-brightgreen?style=for-the-badge&logo=leetcode"/>
 </p>
