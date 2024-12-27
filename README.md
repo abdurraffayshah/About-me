@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/github/followers/abdurraffayshah?label=Followers" alt="GitHub Followers"/>
 </p>
 
+<h2>A Little Bit About Me</h2>
+<p>
+  I’m Abdur Raffay, an aspiring AI/ML engineer driven by a deep passion for computer science. I enjoy working on projects that push the boundaries of technology, particularly in artificial intelligence and machine learning. Whether it's coding, problem-solving, or exploring new advancements in tech, I’m always eager to learn and grow. My goal is to contribute to innovative solutions that make a real-world impact.
+</p>
+
 - 🔭 I’m currently working on **AI and Machine Learning Projects and normal Python projects**
 - 🌱 I’ve recently completed [**CS50P by Harvard**](https://cs50.harvard.edu/python/2023/)
 - 💬 Ask me about **Python, AI/ML, and Algorithms**
