@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdur Raffay</h1>
-<h3 align="center">A dedicated aspiring AI engineer from the UK, driven to excel in both academic and practical applications of computer science.</h3>
+<h3 align="center">A dedicated aspiring AI/Ml engineer from the UK, driven to excel in both academic and practical applications of computer science.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killer1234556&label=Profile%20views&color=0e75b6&style=flat" alt="killer1234556" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killer1234556" alt="killer1234556" /></a> </p>
 
-- 🌱 I’m currently learning **CS50p**
+- 🌱 I recently completed **CS50p**
 
 - 📫 How to reach me **syedabdurraffay@outlook.com**
 
