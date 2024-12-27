@@ -1,11 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Abdur Raffay</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Passionate about Computer Science from the UK</h3>
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
 </div>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurraffayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -22,7 +20,6 @@
 - 💬 Ask me about **Python, AI/ML, and Algorithms**
 - 📫 How to reach me: **syedabdurraffay@outlook.com**
 
-
 <h3 align="center">🌐 Connect with me 🌐</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abdur-raffay-shah" target="_blank">
@@ -36,7 +33,6 @@
   </a>
 </p>
 
-
 <h3 align="center">⚙️ Languages & Tools ⚙️</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -45,6 +41,12 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
   </a>
+</p>
+
+<h3>📂 Projects</h3>
+<p>
+  - [**Journal**](https://github.com/abdurraffayshah/Journal-) - A Python project to manage personal journal entries.
+  - [**Homework Manager**](https://github.com/abdurraffayshah/Homework-Manager) - A Python-based application to track and manage homework assignments.
 </p>
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
@@ -57,10 +59,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abdurraffayshah&theme=radical&margin-w=15" alt="Trophies" width="500"/>
 </p>
 
-
 <h3 align="center">👨‍💻 What I’m Currently Learning 👨‍💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20&%20ML-Scikit--Learn%2C%20TensorFlow-yellow?style=for-the-badge&logo=artstation"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-LeetCode-brightgreen?style=for-the-badge&logo=leetcode"/>
 </p>
-
