@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on **AI and Machine Learning Projects and normal Python projects**
-- 🌱 I’ve recently completed [**CS50P by Harvard**](https://cs50.harvard.edu/python/2023/)
+- 🌱 I’ve recently completed [**CS50P by Harvard**](https://cs50.harvard.edu/python/2022/)
 - 💬 Ask me about **Python, AI/ML, and Algorithms**
 - 📫 How to reach me: **syedabdurraffay@outlook.com**
 
